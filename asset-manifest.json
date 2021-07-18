@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RoboZone/static/css/main.a66b24ba.chunk.css",
+    "main.js": "/RoboZone/static/js/main.9afcffb9.chunk.js",
+    "main.js.map": "/RoboZone/static/js/main.9afcffb9.chunk.js.map",
+    "runtime-main.js": "/RoboZone/static/js/runtime-main.367ab7a3.js",
+    "runtime-main.js.map": "/RoboZone/static/js/runtime-main.367ab7a3.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/RoboZone/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.780fa108.chunk.js": "/RoboZone/static/js/2.780fa108.chunk.js",
+    "static/js/2.780fa108.chunk.js.map": "/RoboZone/static/js/2.780fa108.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/RoboZone/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/RoboZone/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/RoboZone/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/RoboZone/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.a66b24ba.chunk.css.map": "/RoboZone/static/css/main.a66b24ba.chunk.css.map",
+    "static/js/2.780fa108.chunk.js.LICENSE.txt": "/RoboZone/static/js/2.780fa108.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboZone/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.367ab7a3.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.780fa108.chunk.js",
+    "static/css/main.a66b24ba.chunk.css",
+    "static/js/main.9afcffb9.chunk.js"
+  ]
+}
